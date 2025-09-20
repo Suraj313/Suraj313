@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Suraj Sing</h1>
+<h1 align="center">Hi 👋, I'm Suraj Singh</h1>
 <h3 align="center">A passionate Full developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suraj313&label=Profile%20views&color=0e75b6&style=flat" alt="suraj313" /> </p>
@@ -11,11 +11,11 @@
 
 - 👯 I’m looking to collaborate on **Full Stack Project**
 
-- 💬 Ask me about **recat,fastapi,djnago**
+- 💬 Ask me about **React.js, FastAPI, Django**
 
 - 📫 How to reach me **surajsinghbhakuni19@gmail.com**
 
-- ⚡ Fun fact **Love Cricket**
+- ⚡ Fun fact - **Love Cricket**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
