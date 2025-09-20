@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on: Building a full-stack College Management Portal to apply my skills in backend development and system design. 🚀<br><br>I'm looking to collaborate on: Open-source projects that use Python and FastAPI, or full-stack applications that solve real-world problems.<br><br>I'm looking for help with: Advanced FastAPI concepts like asynchronous task handling, WebSocket integration, and deploying applications with Docker and CI/CD pipelines.<br><br>I'm currently learning: How to build robust, scalable, and secure RESTful APIs using FastAPI and PostgreSQL.<br><br>Ask me about: Python, data structures, and the projects I'm building for my final year.<br><br>Fun fact:  Love Cricket
+I'm currently working on: Building a full-stack College Management Portal to apply my skills in backend development and system design. 🚀<br><br>I'm looking to collaborate on: Open-source projects that use Python and FastAPI, or full-stack applications that solve real-world problems.Ask me about: Python, data structures, and the projects I'm building for my final year.<br><br>Fun fact:  Love Cricket
 
 
 ## 🌐 Socials:
