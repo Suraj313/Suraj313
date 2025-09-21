@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on: Building a full-stack College Management Portal to apply my skills in backend development and system design. 🚀<br><<br>Fun fact:  Love Cricket
+I'm currently working on: Building a full-stack College Management Portal to apply my skills in backend development and system design. 🚀<br><br>Fun fact:  Love Cricket
 
 
 ## 🌐 Socials:
