@@ -1,32 +1,38 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Suraj Singh
-====================================================================================================================================
+# Hi, I'm Suraj Singh 👋
 
-Full-Stack Developer | MERN Stack | Generative AI
--------------------------------------------------
+### Full-Stack Developer | MERN Stack | Generative AI
 
-I'm a Full-Stack Developer focused on building practical web applications with React, TypeScript, Node.js, and Express. I'm also exploring Generative AI through projects involving RAG, embeddings, and vector search.
+I build full-stack web applications using React, TypeScript, Node.js, and Express. I'm also building AI-powered applications using RAG, embeddings, and vector search.
 
-* 🌍  I'm based in Uttarakhand, India
-* ✉️  You can contact me at [surajsinghbhakuni19@gmail.com](mailto:surajsinghbhakuni19@gmail.com)
-* 🚀  I'm currently working on [Unfold](http://github.com/Suraj313/Unfold)
-* 🧠  I'm currently learning RAG, embeddings, vector search, and Generative AI application development
-* 👥  I'm looking to collaborate on Full-stack web applications and AI-powered projects
+- 📍 Uttarakhand, India
+- 💻 Focused on full-stack development and Generative AI
+- 📚 Currently exploring RAG, embeddings, and vector databases
+- 🤝 Open to collaborating on full-stack and AI-powered projects
 
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" alt="TypeScript" title="TypeScript" width="36" height="36" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" alt="C++" title="C++" width="36" height="36" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="TailwindCSS" title="TailwindCSS" width="36" height="36" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" alt="Express" title="Express" width="36" height="36" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" alt="MongoDB" title="MongoDB" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" /></a>
-</p>
+## 🛠️ Tech Stack
 
-### Socials
+**Frontend:** React, TypeScript, JavaScript, HTML, CSS, Tailwind CSS  
+**Backend:** Node.js, Express.js, REST APIs, JWT  
+**Databases:** PostgreSQL, MongoDB, MySQL, Prisma  
+**AI:** Retrieval-Augmented Generation (RAG), Embeddings, Vector Search  
+**Tools:** Git, GitHub, Postman
 
-<p align="left"> <a href="https://www.github.com/Suraj313" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/suraj-singh-7239ba246" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
-### Badges
+## 🚀 Featured Projects
 
-<b>My GitHub Stats</b>
+### [Unfold — AI-Powered Knowledge & Document Workspace](https://github.com/Suraj313/Unfold)
+An AI-powered study workspace for uploading PDFs, asking document-grounded questions with page citations, and generating quizzes.
 
-<a href="http://www.github.com/Suraj313"><img src="https://github-readme-stats.vercel.app/api?username=Suraj313&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Suraj313's GitHub stats" /></a>
+- **Tech:** React, TypeScript, Node.js, Express, PostgreSQL, Prisma, pgvector
+- **Live Demo:** [Try Unfold](https://unfold-2-pqzy.onrender.com)
 
-<a href="https://github.com/Suraj313" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suraj313&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+### [DevScribe — Full-Stack Blog Platform](https://github.com/Suraj313/Blog-Application)
+A full-stack blogging platform with authentication, role-based access, post management, comments, search, and pagination.
 
-<b>Top Repositories</b>
+- **Tech:** React, TypeScript, Node.js, Express, MongoDB
+- **Live Demo:** [Try DevScribe](https://blog-application-eight-ochre.vercel.app/)
 
-<div width="100%" align="center"><a href="https://github.com/Suraj313/Unfold" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Suraj313&repo=Unfold&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+## 🔗 Connect With Me
+
+- [GitHub](https://github.com/Suraj313)
+- [LinkedIn](https://www.linkedin.com/in/suraj-singh-7239ba246)
+- [Email](mailto:surajsinghbhakuni19@gmail.com)
